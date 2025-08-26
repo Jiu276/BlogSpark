@@ -67,7 +67,7 @@ Modern time management requires the right tool support:
 *Remember, the essence of time management is not managing time, but managing yourself.*`,
     summary: 'Deep dive into core methods of modern time management, featuring practical techniques like the Pomodoro Technique and Eisenhower Matrix, plus digital tool recommendations to help you build an efficient work model.',
     author: 'Efficiency Expert · Alex Lee',
-    publishDate: '2025-01-15',
+    publishDate: '2025-08-15',
     tags: ['Time Management', 'Productivity', 'Career Skills'],
     readTime: 6,
     coverImage: 'https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&h=400&fit=crop'
@@ -152,7 +152,7 @@ Consume 5 colors of food daily to ensure comprehensive nutrition:
 **✨ Helpful Reminder**: Building healthy habits takes 21-66 days. Stay consistent, and you'll notice significant improvements in your quality of life!`,
     summary: 'Systematic introduction to scientific methods for healthy routines, from sleep management to nutrition planning, from exercise schedules to digital tools, helping you build a sustainable healthy lifestyle.',
     author: 'Health Consultant · Dr. Watson',
-    publishDate: '2025-02-12',
+    publishDate: '2025-07-12',
     tags: ['Healthy Living', 'Daily Routines', 'Lifestyle'],
     readTime: 7,
     coverImage: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop'
@@ -236,7 +236,7 @@ Fixed Monthly Investment → Risk Diversification → Average Cost → Long-term
 **🎖️ Investment Motto**: Time is your best friend, volatility is your biggest enemy. Stick to long-term value investing, and financial freedom is within reach!`,
     summary: 'From investment fundamentals to strategic planning, using charts and practical tools to build a complete wealth management knowledge system for beginners, helping you embark on your wealth-building journey.',
     author: 'Financial Planner · Sarah Zhang',
-    publishDate: '2025-03-10',
+    publishDate: '2025-06-10',
     tags: ['Investment', 'Wealth Management', 'Financial Knowledge'],
     readTime: 8,
     coverImage: 'https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?w=800&h=400&fit=crop'
@@ -347,7 +347,7 @@ Fixed Monthly Investment → Risk Diversification → Average Cost → Long-term
 **🎁 Travel Tip**: Start planning 3 months in advance for better prices and adequate preparation time. Remember, the most beautiful scenery is on the road, and the best mood is in the present moment!`,
     summary: 'From destination selection to itinerary planning, from smart packing to safety protection, this systematic approach helps you plan the perfect travel experience, making every trip a precious memory.',
     author: 'Travel Expert · Alex Explorer',
-    publishDate: '2025-04-08',
+    publishDate: '2025-03-08',
     tags: ['Travel Guide', 'Trip Planning', 'Lifestyle'],
     readTime: 9,
     coverImage: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=400&fit=crop'
@@ -449,7 +449,7 @@ Cold water start → Bring to boil → Remove foam → Set aside
 **👨‍👩‍👧‍👦 Warm Reminder**: Cooking together with family not only creates delicious meals but also strengthens bonds and passes down the flavors of home!`,
     summary: 'Detailed introduction to classic home cooking methods through rich visuals and text, covering ingredient selection, cooking techniques, heat control, and seasoning skills to help you master the essence of culinary arts.',
     author: 'Culinary Master · Chef Chen',
-    publishDate: '2025-05-05',
+    publishDate: '2025-01-25',
     tags: ['Culinary Arts', 'Home Cooking', 'Cooking Techniques'],
     readTime: 8,
     coverImage: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=400&fit=crop'
