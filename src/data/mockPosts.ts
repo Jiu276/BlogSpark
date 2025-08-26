@@ -1,4 +1,5 @@
 import { BlogPost } from '../types/blog';
+// Updated dates to 2025
 
 export const mockPosts: BlogPost[] = [
   {
