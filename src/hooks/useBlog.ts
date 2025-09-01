@@ -1,8 +1,7 @@
 import { useState, useMemo } from 'react';
 import { mockPosts } from '../data/mockPosts';
 
-export function useBlog() {
-  const [searchQuery, setSearchQuery] = useState('');
+export function useBlog(searchQuery: string = '') {
   const [selectedPostId, setSelectedPostId] = useState<string | null>(null);
 
   const filteredPosts = useMemo(() => {
@@ -24,7 +23,6 @@ export function useBlog() {
   return {
     posts: filteredPosts,
     searchQuery,
-    setSearchQuery,
     selectedPost,
     setSelectedPostId,
   };

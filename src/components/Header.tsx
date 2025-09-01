@@ -9,7 +9,7 @@ export function Header({ onSearch, searchQuery }: HeaderProps) {
   return (
     <header className="header">
       <div className="header-container">
-        <Link to="/" className="header-brand" style={{ textDecoration: 'none', color: 'inherit' }}>
+        <Link to="/" className="header-brand">
           <h1>BlogSpark</h1>
           <p>Comprehensive Content Platform</p>
         </Link>

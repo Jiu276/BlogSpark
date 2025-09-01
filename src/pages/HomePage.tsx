@@ -9,16 +9,7 @@ import { useSearch } from '../context/SearchContext';
 export function HomePage() {
   const navigate = useNavigate();
   const { searchQuery } = useSearch();
-  const { posts: allPosts } = useBlog();
-  
-  // Filter posts based on search query
-  const posts = searchQuery 
-    ? allPosts.filter(post => 
-        post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        post.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        post.tags.some(tag => tag.toLowerCase().includes(searchQuery.toLowerCase()))
-      )
-    : allPosts;
+  const { posts } = useBlog(searchQuery);
 
   const {
     sections,
