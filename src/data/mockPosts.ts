@@ -756,5 +756,200 @@ Downloads are for offline listening within the app only and require an active su
     tags: ['Music Streaming', 'Subscription Services', 'Digital Music', 'Product Comparison'],
     readTime: 9,
     coverImage: 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800&h=400&fit=crop'
+  },
+  {
+    id: '9',
+    title: 'Create a Perfect School Look with FrenchToast Outfits',
+    content: `# Create a Perfect School Look with FrenchToast Outfits
+
+![Students in stylish school uniforms](https://images.unsplash.com/photo-1509062522246-3755977927d7?w=700&h=350&fit=crop)
+
+Starting a new school year means it's time to refresh your wardrobe with stylish, comfortable, and practical school outfits. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a> has been the go-to brand for quality school uniforms and casual wear that combines durability, style, and affordability for over 60 years.
+
+## 👕 Building Your Perfect School Wardrobe
+
+![School uniform essentials laid out](https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=300&fit=crop)
+
+### Essential <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a> Pieces
+
+Creating the perfect school look starts with quality basics that can be mixed and matched throughout the week:
+
+**For Girls:**
+- 👗 **Pleated Skirts**: Classic navy, khaki, and plaid options
+- 👚 **Polo Shirts**: Available in 15+ colors with stain-resistant fabric
+- 🩳 **School Shorts**: Comfortable bermuda length in multiple colors
+- 👖 **School Pants**: Straight leg and skinny fit options
+- 🧥 **Cardigans**: Perfect layering pieces for cooler days
+
+**For Boys:**
+- 👕 **Polo Shirts**: Moisture-wicking fabric in school-approved colors
+- 👖 **Chino Pants**: Wrinkle-resistant with adjustable waist
+- 🩳 **School Shorts**: Flat front design with reinforced seams
+- 🧥 **School Sweaters**: V-neck and crew neck styles
+
+## 🎨 Mix and Match Magic
+
+![Colorful school clothing combinations](https://images.unsplash.com/photo-1445205170230-053b83016050?w=600&h=300&fit=crop)
+
+### Weekly Outfit Planning with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a>
+
+| Day | Girls' Outfit | Boys' Outfit | Key Piece |
+|-----|---------------|--------------|-----------|
+| **Monday** | Navy polo + plaid skirt | White polo + navy chinos | Classic start |
+| **Tuesday** | White blouse + khaki shorts | Light blue polo + khaki pants | Fresh midweek |
+| **Wednesday** | Pink polo + navy pants | Navy polo + grey shorts | Color variety |
+| **Thursday** | Cardigan + dress | Sweater + navy pants | Layered comfort |
+| **Friday** | School spirit colors | Casual Friday approved | Fun finish |
+
+### 🌈 Color Coordination Tips
+
+**School-Approved Color Palette:**
+- 🔵 Navy Blue - The foundation color that goes with everything
+- 🤎 Khaki/Tan - Neutral base for bottoms
+- ⚪ White - Clean, crisp accent color
+- 🔴 Burgundy - Rich accent for special occasions
+- 💚 Forest Green - Perfect for fall and winter
+
+## 🏆 Why Choose <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a> for School?
+
+![Quality fabric and construction details](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=250&fit=crop)
+
+### Unmatched Quality Features
+
+**Fabric Technology:**
+- 🛡️ **Stain-Resistant Finish**: Repels spills and stains
+- 🌀 **Wrinkle-Free Material**: Looks crisp all day long
+- 💧 **Moisture-Wicking**: Keeps kids comfortable and dry
+- 🧵 **Reinforced Seams**: Built to withstand active play
+
+**Comfort Features:**
+- 📏 **Adjustable Waistbands**: Grows with your child
+- 🏃 **Stretch Fabric**: Allows for natural movement
+- 🌬️ **Breathable Materials**: Prevents overheating
+- 🏷️ **Tagless Labels**: No irritation or scratching
+
+## 📏 Sizing and Fit Guide
+
+![Children measuring for proper fit](https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&h=300&fit=crop)
+
+### Getting the Perfect Fit
+
+**Size Chart Essentials:**
+
+| Age Range | Size | Chest (inches) | Waist (inches) |
+|-----------|------|----------------|----------------|
+| 4-5 years | XS | 23-24 | 21-22 |
+| 6-7 years | S | 25-26 | 23-24 |
+| 8-10 years | M | 27-28 | 25-26 |
+| 11-12 years | L | 29-30 | 27-28 |
+| 13-14 years | XL | 31-32 | 29-30 |
+
+### 📝 Fitting Tips
+
+**For the Best Fit:**
+1. **Measure regularly** - Children grow quickly
+2. **Check shoulder seams** - Should sit at natural shoulder line
+3. **Test range of motion** - Arms should move freely
+4. **Consider layering** - Leave room for sweaters underneath
+5. **Length matters** - Pants should just touch shoes
+
+## 💰 Budget-Smart Shopping
+
+![Shopping cart with school supplies](https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=600&h=250&fit=crop)
+
+### Smart Shopping Strategies with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a>
+
+**Money-Saving Tips:**
+- 🛒 **Buy in Sets**: Multi-packs offer better value
+- 📅 **Shop End-of-Season Sales**: Stock up for next year
+- 🎯 **Focus on Basics**: Invest in versatile pieces
+- 👥 **Consider Hand-Me-Downs**: Quality items last for siblings
+- 💳 **Use School Discounts**: Many schools offer special pricing
+
+### Essential Back-to-School Shopping List
+
+**Must-Have Items:**
+\`\`\`
+Girls' Checklist:
+✅ 3-5 polo shirts (various colors)
+✅ 2-3 skirts or jumpers  
+✅ 2 pairs dress pants
+✅ 1-2 cardigans or sweaters
+✅ 1 dress for special occasions
+
+Boys' Checklist:
+✅ 4-6 polo shirts (school colors)
+✅ 3 pairs dress pants
+✅ 2 pairs dress shorts
+✅ 1-2 sweaters or pullovers
+✅ 1 dress shirt for events
+\`\`\`
+
+## 🧺 Care and Maintenance
+
+![Laundry care symbols and instructions](https://images.unsplash.com/photo-1517677129300-07b130802f46?w=600&h=200&fit=crop)
+
+### Keeping <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a> Clothes Looking Great
+
+**Laundry Best Practices:**
+- 🌡️ **Wash in cold water** to prevent shrinking
+- 🔄 **Turn inside out** to protect colors
+- 🚫 **Avoid bleach** on colored items
+- ☀️ **Air dry when possible** to extend fabric life
+- 🔥 **Iron on medium heat** with starch for crisp look
+
+**Stain Removal Guide:**
+- 🍎 **Food stains**: Pre-treat with cold water immediately
+- 🖊️ **Ink marks**: Rubbing alcohol on cotton ball
+- 🌱 **Grass stains**: Enzyme-based stain remover
+- 🏃 **Sweat stains**: White vinegar and baking soda paste
+
+## 🎒 Completing the Look
+
+![School accessories and supplies](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&h=300&fit=crop)
+
+### Accessories That Make a Difference
+
+**Essential Accessories:**
+- 🎒 **Quality Backpack**: Supports good posture
+- 👟 **Comfortable Shoes**: Follow school dress code
+- 🧦 **School Socks**: Crew or knee-high as required
+- ⌚ **Simple Watch**: Helps with time management
+- 🎀 **Hair Accessories**: School-appropriate colors only
+
+### Seasonal Adaptations
+
+**Fall/Winter Additions:**
+- 🧥 **School Jacket**: Weather-appropriate outerwear
+- 🧤 **Gloves and Hat**: In school colors
+- 🦵 **Tights or Leggings**: For under skirts
+- 👢 **Weather Boots**: Practical for rainy days
+
+## ✨ Special Occasions
+
+![Students dressed for school events](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=250&fit=crop)
+
+### Dressing Up with <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a>
+
+**Special Event Outfits:**
+- 🎓 **Picture Day**: Crisp white shirt with school tie
+- 🎭 **School Plays**: Dress shirts and dress pants
+- 🏆 **Awards Ceremonies**: Navy blazer with school emblem
+- 🎉 **School Dances**: Age-appropriate formal wear
+- 📚 **Field Trips**: Comfortable, durable casual wear
+
+---
+
+## 🛍️ Where to Shop
+
+Ready to create the perfect school wardrobe? Visit <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a> online or check if they're available at your local retailers. With their extensive size range, quality construction, and school-appropriate styles, creating the perfect school look has never been easier.
+
+**🎒 Back-to-School Success**: Remember, the best school outfit is one that makes your child feel confident, comfortable, and ready to learn. With <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=d9caFTs8q_ahm1Icopdbxw5t14M6_bw3sYJ_bFSTvEhmnnH8s4MnCAwCKjeB_bqTf8rVystGsCd_bRA_c_c&new=https%3A%2F%2Fwww.frenchtoast.com%2F">FrenchToast</a>, you're investing in quality pieces that will last throughout the school year and beyond!`,
+    summary: 'A comprehensive guide to creating perfect school looks with FrenchToast outfits, covering essential pieces, styling tips, sizing advice, and budget-smart shopping strategies for the new school year.',
+    author: 'Style Consultant · Emma Thompson',
+    publishDate: '2025-08-20',
+    tags: ['School Fashion', 'Kids Style', 'School Uniforms', 'Back to School'],
+    readTime: 8,
+    coverImage: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&h=400&fit=crop'
   }
 ];
