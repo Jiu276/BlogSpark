@@ -13,6 +13,10 @@ export function Header({ onSearch, searchQuery }: HeaderProps) {
           <h1>BlogSpark</h1>
           <p>Comprehensive Content Platform</p>
         </Link>
+        <nav className="header-nav">
+          <Link to="/" className="nav-link">Home</Link>
+          <Link to="/blog" className="nav-link">Blog</Link>
+        </nav>
         <div className="header-search">
           <input
             type="text"

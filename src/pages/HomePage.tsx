@@ -11,6 +11,7 @@ export function HomePage() {
   const { searchQuery } = useSearch();
   const { posts } = useBlog(searchQuery);
 
+
   const {
     sections,
     activeSection,
