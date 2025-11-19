@@ -2671,5 +2671,103 @@ This **<a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=afabAyldsk
     tags: ['Gilt', 'Oscar de la Renta', 'Luxury Fashion', 'Designer Collection'],
     readTime: 8,
     coverImage: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&h=400&fit=crop'
+  },
+  {
+    id: '19',
+    title: 'Style Your Space at the Best Price - Furniture & Decor',
+    content: `# Style Your Space at the Best Price - Furniture & Decor
+
+![Cozy fall-ready living room](https://images.unsplash.com/photo-1481277542470-605612bd2d61?w=800&h=400&fit=crop)
+
+Last Sunday I pulled everything out of my living room, brewed cinnamon coffee, and swore I wouldn’t spend more than ₱20K MXN. Two hours (and three carts) later, **<a href="https://www.homedepot.com.mx/">Home Depot</a>** had me ready for the **<a href="https://www.homedepot.com.mx/">Style Your Space</a> at the Best Price - <a href="https://www.homedepot.com.mx/">Furniture & Decor</a>** drop on **2025-10-22**. Here’s the exact play-by-play, mess, emotions, and all.
+
+## Living Room Diary
+
+![Warm palette swatches and decor](https://images.unsplash.com/photo-1549187774-b4e9b0445b41?w=700&h=350&fit=crop)
+
+- **Minute 0-15**: I dragged the old rug out and let the bare floor breathe. The space looked like a blank notebook.
+- **Minute 16-45**: Added the walnut media console with brass pulls from **<a href="https://www.homedepot.com.mx/">Home Depot</a>**. The drawers glide like butter; my remotes finally have a home.
+- **Minute 46-70**: Swapped in bouclé chairs and a terracotta planter. My best friend texted “it smells like orange peels even through FaceTime.”
+
+> “Good design is when your cousin asks where you got the lamp before she even sits down.”
+
+## Wallet-Friendly Cart (Promise, No Banner Overload)
+
+| Priority | Item | Real-life payoff |
+|----------|------|------------------|
+| 1 | Modular sofa under $18K MXN | Deep seats for movie marathons; easy to clean when nieces visit |
+| 2 | Brass arc floor lamp | Soft light for late-night chats; zero harsh glare on video calls |
+| 3 | Performance rug 8'x10' | Dogs sprint across it, wine wipes off effortlessly |
+
+**Soft tip**: Clip the coupons inside the **<a href="https://www.homedepot.com.mx/">Home Depot</a>** app while you wait for coffee to brew. By pickup time, the order was staged near the exit—no aimless wandering.
+
+## Sensory Layers Checklist
+
+- **Entry moment**: Narrow console + ribbed glass lamp = instant height play; I tuck love letters in the top drawer.
+- **Living zone**: Double curtains (sheer + blackout) keep the afternoon glare off the TV but still let the sunset glow in.
+- **Dining nook**: Upholstered chairs encourage lingering stories; the bench moved to the balcony with new cushions from the same **<a href="https://www.homedepot.com.mx/">Style Your Space</a>** collection.
+
+## Week-of-Launch Personal Reminders
+
+1. Queue a 30-second reel showing the rug swap (people love messy progress shots).
+2. Preload a shared cart for friends who keep asking for links—UTMs included for the ad crew.
+3. Light the cedar candle at 7 p.m. sharp so the apartment smells like the season when stories go live.
+
+---
+
+This refresh isn’t about perfection; it’s about walking into your home on a Tuesday and feeling hugged. The **<a href="https://www.homedepot.com.mx/">Style Your Space</a> at the Best Price - <a href="https://www.homedepot.com.mx/">Furniture & Decor</a>** pricing window makes it doable without turning your feed into a banner wall.`,
+    summary: 'Hands-on living room refresh timed to 10/22, filled with diary-style tips, sensory layering ideas, and soft Home Depot callouts that feel like advice from a design-obsessed friend.',
+    author: 'Home Stylist · Mariana Cruz',
+    publishDate: '2025-10-22',
+    tags: ['Home Decor', 'Interior Styling', 'Home Depot', 'Campaign Launch'],
+    readTime: 6,
+    coverImage: 'https://images.unsplash.com/photo-1481277542470-605612bd2d61?w=800&h=400&fit=crop'
+  },
+  {
+    id: '20',
+    title: 'Cyber Day: Up to 55% OFF on Home Appliances',
+    content: `# Cyber Day: Up to 55% OFF on Home Appliances
+
+![Modern kitchen filled with stainless appliances](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=400&fit=crop)
+
+Cyber Day (11/10) always sneaks up on me. Last year my oven died the night before Friendsgiving, so this time I pre-tested everything inside **<a href="https://www.homedepot.com.mx/">Home Depot</a>** Ciudad de México. I left with flour on my sleeve, cafecito in hand, and three bundles worth texting you about.
+
+## What I Noticed in Store
+
+- Sales associates were already tagging the **<a href="https://www.homedepot.com.mx/">Cyber Day</a>** inventory wall, so the exact French-door fridge I liked shows real-time stock.
+- A grandmother asked about washer joints, and the rep showed her the steam refresh cycle—human moments like that remind me these aren’t faceless banners.
+- Install crews were booking slots on iPads. Translation: no holiday backlog if you reserve during the promo.
+
+## Bundle Shortlist (aka My Group Chat Notes)
+
+| Budget | Bundle | Why my family cares | Link |
+|--------|--------|--------------------|------|
+| Under $40K MXN | Induction range + convertible hood | Precise simmer for pozole night, hood keeps the cilantro aromas in check | <a href="https://www.homedepot.com.mx/">Cyber Day Appliances</a> |
+| $40K-$65K MXN | Counter-depth fridge + smart dishwasher | Mom loves the door alarm; I love that the dishwasher has a third rack for mezcal copitas | <a href="https://www.homedepot.com.mx/">Home Depot</a> |
+| $65K+ MXN | Laundry duo + whole-home water softener | My brother’s soccer kits stop smelling like the field; plumbing thanks you later | <a href="https://www.homedepot.com.mx/">Home Appliances Sale</a> |
+
+> “If the dishwasher tells me the rinse aid is low, I’ll actually remember to buy it,” my roommate joked—and honestly, same.
+
+## Day-Of Rhythm That Keeps Stress Low
+
+1. **7:00 a.m. cafecito** — Add SKUs to the **<a href="https://www.homedepot.com.mx/">Cyber Day</a>** wish list, screenshot order numbers in case Wi-Fi drops.
+2. **Lunch break** — Use the **<a href="https://www.homedepot.com.mx/">Home Depot</a>** financing calculator; 6-month installments were cheaper than my monthly cold brew habit.
+3. **8:30 p.m.** — Final cart sweep, apply coupon stack, schedule delivery, and text the group chat “I did the adult thing.”
+
+## After the Checkout Confetti
+
+- Clear a landing zone in the kitchen so installers aren’t dodging pets or backpacks.
+- Save the cardboard; it makes a perfect kids’ fort while grown-ups test recipes on the new range.
+- Film a “first tortilla puff” video and tag **<a href="https://www.homedepot.com.mx/">Cyber Day</a>**—soft content that still celebrates the sale.
+
+---
+
+These deals aren’t faceless ads; they’re the reason my mom’s stuffing recipe hits the table hot. If you need proof, I’ll be on Stories simmering champurrado on the new stove the second the **<a href="https://www.homedepot.com.mx/">Home Appliances</a>** bundles land.`,
+    summary: 'Story-driven Cyber Day guide packed with in-store observations, family-tested bundles, and gentle reminders that Home Depot Mexico’s appliance deals mean fewer holiday mishaps.',
+    author: 'Editorial Producer · Luis Herrera',
+    publishDate: '2025-11-10',
+    tags: ['Cyber Day', 'Home Appliances', 'Home Depot', 'Deals'],
+    readTime: 6,
+    coverImage: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=400&fit=crop'
   }
 ];
