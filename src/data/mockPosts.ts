@@ -2882,5 +2882,139 @@ If you're tired of adjusting your bra straps or pulling up your underwear, **<a 
     tags: ['EBY', 'Supportive Basics', 'Perfect Fit', 'Underwear', 'Fashion', 'Comfort'],
     readTime: 9,
     coverImage: '/eby4.png'
+  },
+  {
+    id: '23',
+    title: 'EBY\'s 360 Control Collection: Comfort & Support',
+    content: `# EBY's 360 Control Collection: Comfort & Support
+
+![EBY 360 Control Collection](/eby1.png)
+
+I have a confession: I used to avoid shapewear like the plague. The last time I tried a traditional control garment was for my cousin's wedding three years ago, and I spent the entire reception counting down the minutes until I could rip it off in the bathroom. It felt like I was being squeezed by a python, and by 9 p.m., I had red marks around my waist that looked like I'd been attacked by a vacuum cleaner.
+
+So when my friend Jenna mentioned she'd been wearing **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY's 360 Control Collection</a>** for months and actually *forgot* she was wearing it, I was skeptical. But Jenna doesn't lie about comfort—she's the person who returns shoes after wearing them for 20 minutes because they "feel weird." If she said the **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY 360 Control</a>** pieces were comfortable, I had to try them.
+
+## The Moment I Knew It Was Different
+
+![EBY seamless comfort](/eby4.png)
+
+I ordered the high-waisted brief from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** on a Tuesday, and it arrived on Thursday. I put it on Friday morning under a bodycon dress I'd been too self-conscious to wear since last summer. Here's what happened: I wore it for 12 hours straight—through a work presentation, lunch with a client, an after-work happy hour, and a late dinner—and I genuinely forgot I had it on.
+
+That's the thing about **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY's 360 Control Collection</a>**: it doesn't feel like shapewear. It feels like really good underwear that happens to smooth everything out. The seamless construction means no visible lines (I've tested this with everything from leggings to silk skirts), and the fabric moves with you instead of fighting against you.
+
+## Real Talk: What It Actually Does
+
+![EBY supportive design](/eby2.png)
+
+Let me be honest about what the **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">360 Control Collection</a>** from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** does and doesn't do. It's not going to make you look two sizes smaller—that's not the point. What it does is smooth out the areas that tend to create visible lines under fitted clothing, and it provides gentle support that makes you feel more put together. Think of it as the difference between wearing a well-fitted bra versus one that's too tight: one makes you feel confident, the other makes you want to take it off immediately.
+
+I've worn my **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY 360 Control</a>** brief to:
+- A job interview (under a blazer and pencil skirt)
+- A first date (under a fitted midi dress)
+- A friend's birthday party (under a jumpsuit)
+- And yes, even just around the house on days when I want to feel a little more polished
+
+The **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY collection</a>** has become part of my regular rotation because it's comfortable enough to forget about, but effective enough to make a difference.
+
+## The Details That Actually Matter
+
+![EBY quality and comfort](/eby3.png)
+
+Here's what I've learned after wearing pieces from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY's 360 Control Collection</a>** for the past few months:
+
+**The fabric is breathable.** This might sound obvious, but after my wedding shapewear disaster, I was worried about feeling trapped. The **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY 360 Control</a>** pieces use a fabric that actually lets your skin breathe, which means no weird sweating or feeling like you're wrapped in plastic wrap.
+
+**It doesn't roll down.** The high-waisted brief from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** has a wider waistband that actually stays put. I've worn it through a full day of sitting, standing, and even a quick yoga session, and it never budged.
+
+**The sizing is forgiving.** I'm usually a medium, and the medium from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** fits perfectly. But I've also tried the large when I wanted a slightly looser fit, and it still provided the smoothing effect without feeling too tight.
+
+## When I Actually Reach for It
+
+I don't wear the **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">360 Control Collection</a>** from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** every single day—that would be overkill. But I do reach for it when:
+- I'm wearing something fitted and want smooth lines
+- I have an important meeting or event and want to feel extra confident
+- I'm trying on new clothes and want to see how they'll actually look
+- I just want to feel a little more polished on a random Tuesday
+
+The beauty of the **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY collection</a>** is that it's comfortable enough to wear whenever you want, not just for special occasions.
+
+## The Bottom Line
+
+If you've been burned by uncomfortable shapewear before (like I was), the **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">360 Control Collection</a>** from **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** might change your mind. It's not going to transform your body, but it will make you feel more confident in the clothes you already love. And honestly? That's worth more than any dramatic before-and-after photo.
+
+I'm now the person recommending **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY</a>** to friends who've had the same shapewear trauma I had. Because sometimes the best recommendation comes from someone who's been there, tried that, and finally found something that actually works.
+
+*The **<a href="https://www.linkbux.com/track/a389Fdfunj8HDOxpHlFPo0jt2_aiW_bZ3ernyV2LpAgFfrR0FFg2SNHvZTMY9yMDeVsvuf?url=https%3A%2F%2Fshop.join-eby.com%2Fcollections%2Fbest-sellers">EBY 360 Control Collection</a>** is available now. Start with one piece and see if you forget you're wearing it too.*`,
+    summary: 'A real, honest review of EBY\'s 360 Control Collection from someone who used to avoid shapewear. Learn why this collection feels different—comfortable enough to forget, effective enough to make a difference.',
+    author: 'Lifestyle Writer · Maya Chen',
+    publishDate: '2025-11-15',
+    tags: ['EBY', '360 Control Collection', 'Comfort', 'Support', 'Shapewear', 'Fashion'],
+    readTime: 8,
+    coverImage: '/eby1.png'
+  },
+  {
+    id: '24',
+    title: 'Stitch Fix: Your Style on Your Schedule',
+    content: `# Stitch Fix: Your Style on Your Schedule
+
+![Stitch Fix personal styling service](https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&h=400&fit=crop)
+
+Last month, I spent three hours at the mall trying to find a blazer for a work presentation. Three hours. I tried on 12 different blazers, bought one that I thought was perfect, got home, tried it on again, and realized it made me look like I was wearing my dad's suit jacket. I returned it the next day and ended up wearing an old cardigan I already owned.
+
+That's when my coworker Rachel mentioned she'd been using **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** for the past year and hadn't set foot in a mall since. I was skeptical—I've tried subscription boxes before and they always sent me things that looked nothing like my style. But Rachel showed me a few pieces she'd gotten from **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>**, and they actually looked like things she would wear. So I signed up.
+
+## My First Box: The Good, The Bad, and The Surprising
+
+![Personalized fashion experience](https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&h=300&fit=crop)
+
+My first **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** box arrived on a Tuesday. I'd filled out the style profile honestly—I said I preferred classic pieces with a modern twist, I'm not a fan of bold patterns, and I needed things that worked for both work and casual settings. The box had five items: a navy blazer (finally!), a white button-down shirt, a pair of dark wash jeans, a black sweater, and a floral blouse that I immediately knew wasn't for me.
+
+Here's what happened: I kept three items (the blazer, the button-down, and the jeans), returned two (the sweater was too boxy, and the floral blouse was just not my style). The **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** stylist had included a note explaining why she'd chosen each piece and how to style them, which was actually helpful. The blazer fit perfectly—something that rarely happens when I shop on my own.
+
+## What I Learned About How Stitch Fix Actually Works
+
+![Convenient fashion shopping](https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=300&fit=crop)
+
+After three boxes from **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>**, here's what I've learned:
+
+**The feedback actually matters.** When you return items, **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** asks you why—too tight, wrong style, don't like the color, etc. I was honest about the floral blouse, and I haven't received anything with a floral pattern since. The **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** stylists actually listen to your feedback, and each box gets better.
+
+**You control the schedule.** I don't want a box every month—that's too much for my budget and my closet. With **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>**, I can schedule boxes whenever I want. I got one in September, skipped October, and ordered another one in November when I needed some new work pieces. The flexibility is real.
+
+**The styling notes are actually useful.** Each piece comes with a note from your **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** stylist explaining why they chose it and how to wear it. I've gotten some good styling ideas from these notes, like pairing a blazer with a t-shirt instead of always defaulting to a button-down.
+
+## The Real Talk: What Stitch Fix Is and Isn't
+
+![Fashion personalization](https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=600&h=250&fit=crop)
+
+**<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** isn't going to completely transform your wardrobe overnight. You're not going to love everything in every box—I've kept as few as one item and as many as four. But what **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** does well is save you time. Instead of spending hours scrolling through websites or wandering around stores, someone else does the initial filtering for you. You just try things on at home and decide what works.
+
+The **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** service is especially helpful when you're in a style rut. I'd been wearing the same rotation of clothes for months, and getting a box forced me to try things I might not have picked out myself. Some of those experiments worked (I now own a pair of wide-leg pants I never would have tried on in a store), and some didn't (that floral blouse is still a no from me).
+
+## When Stitch Fix Makes the Most Sense
+
+![Time-saving fashion solution](https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=300&fit=crop)
+
+I've found that **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** works best when:
+- You're too busy to shop but need to refresh your wardrobe
+- You're stuck in a style rut and want to try new things
+- You have a specific event or need (like I did with that blazer)
+- You want someone else to do the initial style curation for you
+
+The **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** model isn't for everyone—if you love shopping and have the time for it, you might prefer doing it yourself. But if you're like me and would rather spend your Saturday doing anything other than trying on clothes in fluorescent lighting, **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** can be a game-changer.
+
+## The Bottom Line
+
+I'm not going to tell you that **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** is perfect. I've returned more items than I've kept, and some boxes have been better than others. But it's saved me hours of shopping time, introduced me to pieces I wouldn't have tried otherwise, and given me that blazer I actually needed. For someone who hates shopping as much as I do, that's worth it.
+
+The **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>** service fits into my schedule instead of forcing me to rearrange my life around shopping. And honestly? That's the biggest selling point for me. I can maintain a wardrobe that makes me feel good without spending my weekends in dressing rooms.
+
+*If you're curious about **<a href="https://www.linkbux.com/track/2d89xoGGwCKsK9H7el9H410jK6u2_aUqplEpHdi2o_bgo7w_bqiK3_bNr3TzjVE13WhuKHXmdFE_c?url=http%3A%2F%2Fwww.stitchfix.com%2F">Stitch Fix</a>**, try one box and see if it works for your lifestyle. You might find it's exactly what you need, or you might decide it's not for you—either way, you'll know.*`,
+    summary: 'An honest review of Stitch Fix from someone who hates shopping. Learn how this personal styling service saved hours of mall time and delivered the blazer that actually fit—plus what to expect from your first box.',
+    author: 'Lifestyle Writer · Maya Chen',
+    publishDate: '2025-11-20',
+    tags: ['Stitch Fix', 'Personal Styling', 'Fashion', 'Convenience', 'Shopping', 'Style'],
+    readTime: 7,
+    coverImage: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&h=400&fit=crop'
   }
 ];
